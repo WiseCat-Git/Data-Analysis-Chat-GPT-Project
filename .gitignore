@@ -1,0 +1,9 @@
+/AI
+/cache
+/Groupe
+/Publicis
+.venv
+/Data
+*.log
+*.env
+-
